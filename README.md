@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanvir058
 - 👀 I’m interested in coding and learning any new skills
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning new skills 
 - 📫 If you want to contact with me, you can mail..My mail address is: tanvirahmedpersonal96@gmail.com
 - My facebook profile link:https://www.facebook.com/tanvir.talha058/
 - My Instagram : https://www.instagram.com/tanvir.talha05/
