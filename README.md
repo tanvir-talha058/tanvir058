@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanvir058
+- 👋 Hi, I’m Tanvir Ahmed
 - 👀 I’m interested in coding and learning any new skills
 - 🌱 I’m currently learning new skills 
 - 📫 If you want to contact with me, you can mail..
