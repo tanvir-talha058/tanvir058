@@ -1,15 +1,10 @@
-Tanvir Ahmed
 Computer Science Student | Tech Enthusiast
 
 Welcome to my GitHub profile! I am a dedicated computer science student with a passion for solving complex problems through innovative solutions. My aim is to constantly learn, improve, and contribute to the world of technology.
 
-About Me:
 I am currently studying Computer Science, focusing on acquiring both theoretical knowledge and practical skills in various areas of software development, algorithms, and system architecture. I enjoy working on coding projects, designing unique solutions, and experimenting with different tools and technologies.
 
 My Interests:
-Software Development: Building efficient, scalable, and user-friendly applications.
-Data Structures & Algorithms: Problem-solving using optimal approaches.
-Web Development: Creating interactive and responsive web applications.
 Artificial Intelligence & Machine Learning: Exploring how data can drive decision-making and innovation.
 
 
