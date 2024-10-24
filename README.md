@@ -1,4 +1,4 @@
-Hey I'm Tanvir Ahmed a Computer Science Student & Tech Enthusiast from Bangladesh
+Hey I'm Tanvir Ahmed, A Computer Science Student & Tech Enthusiast from Bangladesh
 
 Welcome to my GitHub profile! I am a dedicated for solving complex problems through innovative solutions. My aim is to constantly learn, improve, and contribute to the world of technology.
 
