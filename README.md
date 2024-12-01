@@ -1,18 +1,63 @@
-Hey I'm Tanvir Ahmed, A Computer Science Student & Tech Enthusiast from Bangladesh
+<h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
+<h3 align="center">Aspiring Computer Scientist | Deep Learning Enthusiast | Future Innovator</h3>
 
-Welcome to my GitHub profile! I am a dedicated for solving complex problems through innovative solutions. My aim is to constantly learn, improve, and contribute to the world of technology.
+<p align="center">
+  <img src="https://github.com/kolinabir/kolinabir/blob/main/assets/animated-gif.gif" alt="animated gif" width="300"/>
+</p>
 
-I am currently studying Computer Science, focusing on acquiring both theoretical knowledge and practical skills in various areas of software development, algorithms, and system architecture.Artificial Intelligence & Machine Learning is my main interest. I enjoy working on coding projects, designing unique solutions, and experimenting with different tools and technologies.
+---
 
+<h2 align="center">👨‍💻 About Me</h2>
 
+- 🎓 **Graduate:** Computer Science & Engineering  
+- 📜 **Research Focus:** Deep Learning for Multi-Class Plant Leaf Disease Classification  
+- 🖋️ **Latest Work:** [Plant Leaf Disease Dataset](https://data.mendeley.com/datasets/5g238dv4ht/1) on Mendeley Data  
+- 📚 **Current Paper:** *A Comprehensive Study on Deep Learning Models for Multi-Class Plant Leaf Classification*  
+- 🤝 **Collaboration:** Open to research projects and joint ventures in machine learning and AI.
 
+---
 
-Contact Information: 
-- My facebook profile: https://www.facebook.com/tanvir.talha058/
-- My Instagram : https://www.instagram.com/tanvir.talha05/
-- My Linkedln: https://www.linkedin.com/in/tanvir-talha058/
+<h2 align="center">🌟 Key Skills & Tools</h2>
 
-<!---
-tanvir058/tanvir058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+</p>
+
+---
+
+<h2 align="center">📊 Recent Achievements</h2>
+
+- ✅ **Top Model Accuracy:**  
+  - ResNet50: **99.00%** | MobileNetV2: **97.00%**  
+- 📈 **Performance Metrics:**  
+  - Loss: 0.1436 (ResNet50), Accuracy: 99.00%  
+  - [Detailed Model Results](#)
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:tanvir@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/tanvirahmed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/tanvirahmed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚡ Fun Fact</h2>
+
+<p align="center">
+  "Great research doesn't just solve problems—it creates possibilities!"
+</p>
