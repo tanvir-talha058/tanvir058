@@ -9,7 +9,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  I'm <strong>Tanvir Ahmed</strong>, a passionate computer science graduate with a deep interest in machine learning, artificial intelligence, and solving real-world problems using technology. My focus lies in:
+  I'm <strong>Tanvir Ahmed</strong>, a passionate computer science graduate with a deep interest in machine learning, artificial intelligence, and solving real-world problems using technology.
 </p>
 
 
