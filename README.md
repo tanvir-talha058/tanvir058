@@ -12,7 +12,6 @@
   I'm <strong>Tanvir Ahmed</strong>, a passionate computer science graduate with a deep interest in machine learning, artificial intelligence, and solving real-world problems using technology. My focus lies in:
 </p>
 
-Innovation, Collaboration, and Continuous Learning  
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="about me gif" width="300"/>
@@ -36,26 +35,7 @@ Innovation, Collaboration, and Continuous Learning
 
 <h2 align="center">📚 Research & Projects</h2>
 
-<table align="center">
-<tr>
-  <th>Project</th>
-  <th>Description</th>
-</tr>
-<tr>
-  <td><strong>Plant Leaf Disease Detection</strong></td>
-  <td>Developed a deep learning model using <em>ResNet50</em> achieving <strong>99.0% accuracy</strong>. Dataset: [Mendeley Data](https://data.mendeley.com/datasets/5g238dv4ht/1).</td>
-</tr>
-<tr>
-  <td><strong>Custom Dataset Augmentation</strong></td>
-  <td>Automated the augmentation of 4000+ raw images using Python for a comprehensive analysis.</td>
-</tr>
-<tr>
-  <td><strong>Performance Benchmarking</strong></td>
-  <td>Compared advanced architectures like CNN, VGG16, ResNet50, and MobileNetV2 for model optimization.</td>
-</tr>
-</table>
 
----
 
 <h2 align="center">🌟 Model Performance Snapshot</h2>
 
